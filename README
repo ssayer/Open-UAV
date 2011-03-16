@@ -1,0 +1,12 @@
+This project is an attempt to create an open design for a small fixed wing aircraft capable of autonomous flight, based around the ArduPilot Mega. We also aim to allow a variety of sensors to be mounted onto the airframe. We aim to make the system easy to reproduce, modify and recontribute. 
+
+This project has been developed as a joint effort between a University of Vermont student engineering team and the MITRE corporation. The project materials are licensed under the TAPR Open Hardware License. As such, all modifications must be sent to the email addresses listed in the CONTRIB.txt file. 
+
+As more materials are created and made available, we will continue to add them here.
+
+COMING SOON:
+1) Stencil for cutting out airframe pieces
+2) Complete assembly instructions
+3) Custom code for use with the Ardupilot Mega
+
+All materials copyright MITRE Corporation. All rights reserved.
